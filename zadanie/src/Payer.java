@@ -1,3 +1,0 @@
-interface Payer {
-    float getPrice();
-}
